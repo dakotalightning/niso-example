@@ -45,8 +45,3 @@ function sunzi.install() {
     return 0
   fi
 }
-
-function sunzi.say() {
-  echo "================================================================================"
-  echo "      DOING ==> $@"
-}
