@@ -8,6 +8,7 @@ attributes:
   mysql_password:
   deploy_user:
   app_name:
+  domain:
 
 # Remote recipes here will be downloaded to compiled/recipes.
 recipes:
