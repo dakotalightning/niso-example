@@ -1,4 +1,5 @@
-# Server provisioning recipes
+# Niso Example
+[niso](https://github.com/dakotalightning/niso-example)
 
 These recipes will provision a servers for `web`, `db` and `job`
 
