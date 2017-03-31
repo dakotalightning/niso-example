@@ -45,3 +45,7 @@ function niso.install() {
     return 0
   fi
 }
+
+function niso.say() {
+  echo "      DOING ==> $@"
+}
