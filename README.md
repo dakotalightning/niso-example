@@ -1,7 +1,10 @@
-# Niso Example
-[niso](https://github.com/dakotalightning/niso-example)
+# nîso ᓃᓱ Example
 
-These recipes will provision a servers for `web`, `db` and `job`
+[![Gem Version](https://badge.fury.io/rb/niso.svg)](https://badge.fury.io/rb/niso) [![Build Status](https://travis-ci.org/dakotalightning/niso.svg?branch=master)](https://travis-ci.org/dakotalightning/niso)
+
+    niso is the number 2 (two) in Cree
+
+Here is an example of the project [niso](https://github.com/dakotalightning/niso) for provisioning servers with roles `web`, `db` and `job`.
 
 ## Installation
 
